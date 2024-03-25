@@ -1,0 +1,9 @@
+[
+    {
+        "hostedZoneId": "Z09928143N1SZUP616W6T",
+        "recordName": "lucid.com",
+        "recordType": "SRV",
+        "recordValue": "0 5 5060 target.example.com.",
+        "ttl": "3600"
+    }
+]
